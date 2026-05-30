@@ -12,3 +12,25 @@
 	path = third_party/sglang
 	url = https://github.com/kvcache-ai/sglang.git
 	branch = main
+[submodule "archive/third_party/PhotonLibOS"]
+	path = archive/third_party/PhotonLibOS
+	url = https://github.com/alibaba/PhotonLibOS.git
+[submodule "archive/third_party/custom_flashinfer"]
+	path = archive/third_party/custom_flashinfer
+	url = https://github.com/kvcache-ai/custom_flashinfer.git
+	branch = GQA_var_batch
+[submodule "archive/third_party/llama.cpp"]
+	path = archive/third_party/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
+[submodule "archive/third_party/prometheus-cpp"]
+	path = archive/third_party/prometheus-cpp
+	url = https://github.com/jupp0r/prometheus-cpp
+[submodule "archive/third_party/pybind11"]
+	path = archive/third_party/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "archive/third_party/spdlog"]
+	path = archive/third_party/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "archive/third_party/xxHash"]
+	path = archive/third_party/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
